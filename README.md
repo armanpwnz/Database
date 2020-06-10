@@ -1,2 +1,3 @@
-# Database
-Database in java(semestral project in BUT)
+# Database in Java
+Semestral project from Brno University of Technology
+
